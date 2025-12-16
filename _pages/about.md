@@ -13,7 +13,7 @@ I completed my Bachelor of Technology in Electronics Engineering from Dwarkadas 
 
 My primary interest lies in Digital IC Design, with a focus on RTL design and implementation of custom digital blocks using Verilog.
 
-In addition to core microelectronics research, I am drawn to interdisciplinary problems at the intersection of **microelectronics and biomedical engineering**. Through my academic and research experiences, I have worked on FPGA-based systems HLS of Neural Networks with an emphasis on practicality and efficiency.
+In addition to core microelectronics research, I am drawn to interdisciplinary problems at the intersection of **microelectronics and biomedical engineering**. Through my academic and research experiences, I have worked on FPGA-based systems and High Level Synthesis (HLS) of Neural Networks with an emphasis on practicality and efficiency.
 
 ---
 
