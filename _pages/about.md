@@ -7,23 +7,46 @@ redirect_from:
   - /about.html
 ---
 
-I am an Electronics Engineering graduate (B.Tech, 2024) with a strong focus on **VLSI**, **Digital IC Design**, and **Embedded Systems**. My current work spans FPGA-based acceleration, hardware-aware machine learning, and applied signal processing for biomedical systems.
+Hi, I’m Suchit.
 
-I have experience as:
+I completed my Bachelor of Technology in Electronics Engineering from Dwarkadas J. Sanghvi College of Engineering, Mumbai, in 2024.
 
-- **Research Intern**, Department of Biosciences, IIT Bombay  
-  Worked on embedded-system solutions for biomedical signal acquisition and analysis.
+My primary interest lies in Digital IC Design, with a focus on RTL design and implementation of custom digital blocks using Verilog.
 
-- **Project Assistant**, Department of Electrical Engineering, IIT Bombay  
-  Contributed to digital IC design and FPGA-based system development.
+In addition to core microelectronics research, I am drawn to interdisciplinary problems at the intersection of **microelectronics and biomedical engineering**. Through my academic and research experiences, I have worked on FPGA-based systems HLS of Neural Networks with an emphasis on practicality and efficiency.
 
-- **Research Author**  
-  My first paper (provisionally accepted at IC2SDT 2025) explores **High-Level Synthesis (HLS) for Neural Networks on FPGAs**, focusing on architecture optimization and deployment efficiency.
+---
 
-My technical interests include:
-- VLSI Design (RTL → Synthesis → Optimization)
-- FPGA Architectures & HLS
-- Digital Design (Verilog/SystemVerilog)
-- Hardware Acceleration for AI/Signal Processing
-- Microelectronics and Chip-Level Design
+## Research Interests
 
+- Digital IC Design  
+- On-chip Neural Networks  
+- FPGA-based Implementation of Neural Networks  
+- Hardware Accelerators for Machine Learning  
+- Neuromorphic and Brain-inspired Computing  
+
+---
+
+## Timeline / News
+
+- **14 Dec 2025** — Presented the research paper *“Evaluating the impact of Handcrafted features fusion with CNN architectures on Ultrasound Based Muscle Health Assessment”* at **IEEE PUNECON 2025**
+- **5 Dec 2025** — Presented the research paper *“FPGA Based Neural Networks for Ultrasound Muscle Pathology Classification”* at **IC2SDT 2025**
+- **6 Jan 2025** — Joined **aiCAS Lab**, Indian Institute of Technology Bombay
+- **3 Oct 2024** — Joined **NanoBioS Lab**, Indian Institute of Technology Bombay
+- **30 May 2024** — Completed B.Tech coursework and degree requirements at DJSCE, Mumbai
+
+---
+
+## Technical Skills
+
+**Programming & HDLs**  
+C, C++, Python, MATLAB, Verilog, HDL  
+
+**Development Platforms**  
+Xilinx ZC706, Xilinx ZC7020, ESP32 DevKit, Raspberry Pi 4, Arduino Uno  
+
+**Circuit & Design Tools**  
+LTspice Circuit Simulator
+
+## Technical Skills
+Feel free to contact me - suchit18.tilak@gmail.com
