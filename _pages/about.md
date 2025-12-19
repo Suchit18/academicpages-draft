@@ -15,7 +15,7 @@ My primary interest lies in Digital IC Design, with a focus on RTL design and im
 
 In addition to core microelectronics research, I am drawn to interdisciplinary problems at the intersection of **microelectronics and biomedical engineering**. Through my academic and research experiences, I have worked on FPGA-based systems and High Level Synthesis (HLS) of Neural Networks with an emphasis on practicality and efficiency.
 
----
+
 
 ## Research Interests
 
@@ -25,7 +25,7 @@ In addition to core microelectronics research, I am drawn to interdisciplinary p
 - Hardware Accelerators for Machine Learning  
 - Neuromorphic and Brain-inspired Computing  
 
----
+
 
 ## Timeline / News
 
@@ -35,7 +35,7 @@ In addition to core microelectronics research, I am drawn to interdisciplinary p
 - **3 Oct 2024** — Joined **NanoBioS Lab**, Indian Institute of Technology Bombay
 - **30 May 2024** — Completed B.Tech coursework and degree requirements at DJSCE, Mumbai
 
----
+
 
 ## Technical Skills
 
@@ -45,8 +45,8 @@ C, C++, Python, MATLAB, Verilog, HDL
 **Development Platforms**  
 Xilinx ZC706, Xilinx ZC7020, ESP32 DevKit, Raspberry Pi 4, Arduino Uno  
 
-**Circuit & Design Tools**  
+**Circuit Design Tools**  
 LTspice Circuit Simulator
 
-## Technical Skills
+## Contact Details
 Feel free to contact me - suchit18.tilak@gmail.com
