@@ -23,7 +23,7 @@ In addition to core microelectronics research, I am drawn to interdisciplinary p
 - On-chip Neural Networks  
 - FPGA-based Implementation of Neural Networks  
 - Hardware Accelerators for Machine Learning  
-- Neuromorphic and Brain-inspired Computing  
+- Neuromorphic IC Design 
 
 
 
