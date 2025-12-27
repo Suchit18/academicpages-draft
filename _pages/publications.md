@@ -7,7 +7,7 @@ author_profile: true
 ## Conference Publications
 
 1. **FPGA Based Neural Networks for Ultrasound Muscle Pathology Classification**  
-   * 2nd International Conference on Pioneering Developments in Computer Science and Digital Technologies, 2025*  
+   *2nd International Conference on Pioneering Developments in Computer Science and Digital Technologies, 2025*  
    **Status:** Accepted and Presented  
 
    **Abstract:**  
