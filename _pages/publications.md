@@ -14,7 +14,7 @@ author_profile: true
 This paper explores an efficient AI pipeline where ultrasound features are extracted on the cloud and a compact neural network runs on FPGA for fast muscle pathology diagnosis 
 
 2. **Evaluating the Impact of Handcrafted Feature Fusion with CNN Architectures on Ultrasound-Based Muscle Health Assessment **  
-   *Conference Name, Year*  
+   *IEEE PUNECON, 2025*  
    **Status:** Accepted and Presented  
 
    **Abstract:**  
