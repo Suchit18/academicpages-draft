@@ -8,17 +8,19 @@ author_profile: true
 
 1. **FPGA Based Neural Networks for Ultrasound Muscle Pathology Classification**  
    *2nd International Conference on Pioneering Developments in Computer Science and Digital Technologies, 2025*  
-   **Status:** Accepted and Presented  
+   **Status:** Accepted and Presented
+   [View on IEEE Xplore](https://ieeexplore.ieee.org/document/11383760)
 
    **Abstract:**  
 This paper explores an efficient AI pipeline where ultrasound features are extracted on the cloud and a compact neural network runs on FPGA for fast muscle pathology diagnosis 
 
-2. **Evaluating the Impact of Handcrafted Feature Fusion with CNN Architectures on Ultrasound-Based Muscle Health Assessment**  
+3. **Evaluating the Impact of Handcrafted Feature Fusion with CNN Architectures on Ultrasound-Based Muscle Health Assessment**  
    *IEEE PUNECON, 2025*  
-   **Status:** Accepted and Presented  
+   **Status:** Accepted and Presented
+   [View on IEEE Xplore](https://ieeexplore.ieee.org/document/11379181)
 
    **Abstract:**  
    This paper studies whether combining handcrafted ultrasound features with modern CNNs improves muscle-health classification; used SHAP analysis to reveal how each type of feature contributes to the final decision
 
-*Links to published versions will be added once the papers appear in the respective digital libraries.*
+
 
