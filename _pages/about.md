@@ -11,11 +11,9 @@ Hi, I'm Suchit.
 
 I am currently pursuing my Master of Science in Microelectronics Engineering at Technische Universität Braunschweig, Germany. I completed my Bachelor of Technology in Electronics Engineering from Dwarkadas J. Sanghvi College of Engineering, Mumbai, in 2024.
 
-My academic interests lie in semiconductor physics, computational nanoelectronics, and emerging electronic devices. I am particularly interested in understanding the physical mechanisms governing nanoscale electronic devices and exploring computational approaches to modelling electronic materials and device behaviour.
+My academic interests lie in semiconductor physics, computational nanoelectronics, and emerging electronic devices. I am particularly interested in understanding the physical mechanisms governing nanoscale electronic systems and using computational methods to investigate the properties of electronic materials and devices.
 
-My broader interests include computational materials modelling, first-principles methods, semiconductor device physics, and quantum and beyond-CMOS technologies.
-
-Previously, I have worked on FPGA-based digital systems, RTL design, and hardware implementation of neural networks. I also founded **RTLCopilot**, an open-source AI-assisted RTL-to-GDSII design automation platform. These experiences have shaped my interest in the intersection of device technology, computational methods, and electronic system design.
+Previously, I have worked on FPGA-based digital systems, RTL design, and hardware implementation of neural networks. I also founded **[RTLCopilot](https://www.rtlcopilot.com/)**, an open-source AI-assisted RTL-to-GDSII design automation platform. Building on this background, I aim to explore fundamental questions in semiconductor and quantum device technology through computational modelling and research, with the long-term goal of contributing to advances in next-generation electronic materials and devices.
 
 ## Research Interests
 
