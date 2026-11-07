@@ -9,9 +9,9 @@ redirect_from:
 
 Hi, I'm Suchit.
 
-I am currently pursuing my **Master of Science in Microelectronics Engineering at Technische Universität Braunschweig, Germany**. I completed my Bachelor of Technology in Electronics Engineering from Dwarkadas J. Sanghvi College of Engineering, Mumbai, in 2024.
+I am currently pursuing my Master of Science in Microelectronics Engineering at Technische Universität Braunschweig, Germany. I completed my Bachelor of Technology in Electronics Engineering from Dwarkadas J. Sanghvi College of Engineering, Mumbai, in 2024.
 
-My academic interests lie in **semiconductor physics, computational nanoelectronics, and emerging electronic devices**. I am particularly interested in understanding the physical mechanisms governing nanoscale electronic devices and exploring computational approaches to modelling electronic materials and device behaviour.
+My academic interests lie in semiconductor physics, computational nanoelectronics, and emerging electronic devices. I am particularly interested in understanding the physical mechanisms governing nanoscale electronic devices and exploring computational approaches to modelling electronic materials and device behaviour.
 
 My broader interests include computational materials modelling, first-principles methods, semiconductor device physics, and quantum and beyond-CMOS technologies.
 
